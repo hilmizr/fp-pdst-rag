@@ -1,0 +1,7 @@
+responses_llama3.1_markdownsplitter_titledchunk_docling_bge_2024-12-04_14-20-17.xlsx
+responses_llama3.2_markdownsplitter_titledchunk_docling_bge_2024-12-04_14-12-40.xlsx
+responses_llama3_markdownsplitter_titledchunk_docling_bge_2024-12-04_14-37-08.xlsx
+responses_qwen2.5_markdownsplitter_titledchunk_docling_bge_2024-12-04_14-57-01.xlsx
+responses_gpt3.5turbo_markdownsplitter_titledchunk_docling_openai_2024-12-05_03-14-56.xlsx
+responses_gpt4omini_markdownsplitter_titledchunk_docling_openai_2024-12-05_03-17-22.xlsx
+responses_gpt4o_markdownsplitter_titledchunk_docling_openai_2024-12-05_03-19-10.xlsx
